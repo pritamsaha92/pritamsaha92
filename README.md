@@ -1,7 +1,7 @@
 ### Hi there, I'm Pritam Saha. 👋
 
 
-## I'm a Husband, Automation Enthusiast, and Startup lover!!
+## I'm a Husband, Automation Enthusiast and Startup lover!!
 
 - 🌱 I’m currently learning new things.
 - 👯 I’m looking to learn more on product management. 
