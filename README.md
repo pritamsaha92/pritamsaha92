@@ -3,9 +3,9 @@
 
 ## I'm a Lead SDET, Automation Enthusiast and Startup lover!!
 
-- 🌱 I’m currently learning new things.
-- 👯 I’m looking to learn more on product management. 
-- 🥅 2021 Goals: Go beyond the comfort zone and make an impact.
+- 🌱 I’m currently learning new things and technology.
+- 👯 I’m looking to learn more on test automation, product management and devOps. 
+- 🥅 2022 Goals: Go beyond the comfort zone and make an impact.
 - ⚡ Fun fact: I love to design internet facing consumer products. 
 
 
