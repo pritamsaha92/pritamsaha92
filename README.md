@@ -1,11 +1,11 @@
 ### Hi there, I'm Pritam Saha. 👋
 
 
-## I'm a Lead SDET, Automation Enthusiast, and Startup lover!!
+## I'm an SDET, Automation Enthusiast, and Startup lover!!
 
 - 🌱 I’m currently learning new things and technology.
-- 👯 I’m looking to learn more about test automation, product management and DevOps. 
-- 🥅 2023 Goals: Go beyond your comfort zone and make an impact.
+- 👯 I’m looking to learn more about test automation, management and DevOps. 
+- 🥅 2024 Goals: Go beyond your comfort zone and make an impact.
 - ⚡ Fun fact: I love to design internet-facing consumer products. 
 
 
