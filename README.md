@@ -1,11 +1,11 @@
 ### Hi there, I'm Pritam Saha. 👋
 
 
-## I'm an SDET, Automation Enthusiast, and Startup lover!!
+## I'm an SDET Architect/Manager, Automation Enthusiast, and Startup lover!!
 
-- 🌱 I’m currently learning new things and technology.
+- 🌱 I’m currently working as a SDET Manager at Vitamojo, London.
 - 👯 I’m looking to learn more about test automation, management and DevOps. 
-- 🥅 2024 Goals: Go beyond your comfort zone and make an impact.
+- 🥅 2025 Goals: Go beyond your comfort zone and make an impact.
 - ⚡ Fun fact: I love to design internet-facing consumer products. 
 
 
